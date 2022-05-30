@@ -1,0 +1,14 @@
+{
+  "name": "validtrianglesfun",
+  "version": "1.0.0",
+  "description": "kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "MK",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
